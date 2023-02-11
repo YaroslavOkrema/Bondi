@@ -230,3 +230,32 @@
     background-color: #ff3150;
     border-radius: 50px;
 }
+
+
+/*Staff*/
+.staff{
+    height: 660px;
+    padding: 60px 0;
+}
+.stuff__title{
+    font-size: 35px;
+    color: #1a2940;
+}
+
+.stuff__text{
+    font-size: 15px;
+    color: #a8b9c0;
+}
+
+.chd3 {
+    display: block;
+    max-width: 230px;
+    height: 45px;
+    
+    padding: 9px 55px;
+    cursor: pointer;
+    color: #fff;
+ 
+    background-color: #ff3150;
+    border-radius: 50px;
+}
