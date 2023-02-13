@@ -330,3 +330,162 @@
     background-color: #ff3150;
     border-radius: 50px;
 }
+
+/*Blog*/
+.blog{
+    padding: 60px 0;
+}
+.blog__inner{
+    padding: 0 50px;
+}
+.blog__item{
+    padding: 0 15px;
+}
+.blog__photo{
+    margin-bottom: 18px;
+}
+
+.blog__date{
+    font-size: 13px;
+    color: #a8b9c0;
+}
+.blog__text{
+    font-size: 20px;
+    color: #1a2940;
+    font-family: "Roboto";
+}
+
+/*Subscribe*/
+.subscribe{
+    padding: 40px 0;
+    height: 110px;
+    background-color: #ffc400;
+    background-size: contain;
+}
+.sub__text{
+    font-size: 20px;
+    color: #1a2940;
+    font-family: "Roboto";
+}
+.chd5 {
+    display: block;
+    max-width: 230px;
+    height: 45px;
+    
+    padding: 9px 55px;
+    cursor: pointer;
+    color: #ffc400;
+ 
+    background-color: #19283f;
+    border-radius: 50px;
+}
+
+/*footer*/
+.footer{
+    padding: 60px;
+    background: var(--color1);
+    background-size: contain;
+}
+.footer__logo{
+    margin-bottom: 30px;
+}
+.footer__text{
+    font-size: 13px;
+    color: #a8b9c0;
+    font-family: "Roboto";
+}
+.footer__text span{
+    color: #02bcb7;
+}
+.footer__date{
+    font-size: 13px;
+    color: #a8b9c0;
+    font-family: "Roboto";
+}
+.footer__date span{
+    color: #ffc400;
+}
+.footer__item{
+    padding: 0 67px;
+}
+.footer__logo{
+    font-size: 15px;
+    color: #f0f8fb;
+    font-family: "Roboto";
+}
+.footer_link{
+    font-size: 13px;
+    color: #a8b9c0;
+    font-family: "Roboto"; 
+    text-decoration: none;
+}
+.footer_link:hover{
+    color: #ffc400;
+}
+
+.chd6 {
+    display: block;
+    max-width: 280px;
+    height: 45px;
+    margin: 0 auto;
+    
+    padding: 9px 55px;
+    cursor: pointer;
+    color: #fff;
+ 
+    background-color: #ff3150;
+    border-radius: 50px;
+}
+
+.social__item{
+    padding: 6px 12px;
+    margin-right: 10px;
+
+    background-color: #347cd2;
+    color: #fff;
+
+    width: 55px;
+    height: 55px;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.social__item2{
+    padding: 6px 12px;
+    margin-right: 10px;
+
+    background-color: #1ec4ff;
+    color: #fff;
+
+    width: 55px;
+    height: 55px;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.social__item3{
+    padding: 6px 12px;
+    margin-right: 10px;
+
+    background-color: #ff4032;
+    color: #fff;
+
+    width: 55px;
+    height: 55px;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 50px;
+}
+.social__item4{
+    padding: 6px 12px;
+    margin-right: 10px;
+
+    background-color: #ff3298;
+    color: #fff;
+
+    width: 55px;
+    height: 55px;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 50px;
+}
